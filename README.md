@@ -21,19 +21,24 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 - **Description:** Developing a method for the early detection of Alzheimer's using the Z-score standard.
 - **Technologies:** Python, Deep Learning, Data Analysis, Machine Learning
 - **result:** Accepted by iscslp2024
-
-### **Mathematical Contest in Modeling (MCM) - Multi-Beam Survey Line Problem** _(2023)_
+### **Parking-lot management system** _(2024)_
+- **Description:** Curriculum synthesis experiment.
+- **Technologies:** python, yolov5, crnn
+- **[Address:]()**
+### **UAV Edge Computing Methods and Systems for Video Object Detection** _(2023-2024)_
+- **Description:** 2023 college students innovation and entrepreneurship training plan.
+- **Technologies:** python, yolov5, websocket
+- **[Address:]()**
+### **Mathematical Contest in Modeling (MCM)** _(2023)_
 - **Description:** Participated in the MCM, focusing on optimizing multi-beam survey line problems using Matlab.
 - **Technologies:** Matlab, Mathematical Modeling, Traversal algorithm, Iterative algorithm
 - **[Experience]:(https://zhuanlan.zhihu.com/p/716390753)**
 - **Role:** Team Leader
-
 ### **moviematch —— Movie recommendation system** _(2023)_
 - **Description:** Created a smart home automation system using IoT devices and machine learning to optimize energy consumption.
 - **Technologies:** python, Machine Learning
-- **Role:** Developer
-- 
-### **Basketball miniprogram** _(2021)_
+- **[Address:]()**
+### **Basketball miniprogram** _(2021-2022)_
 - **Description:** First project in college. Basketball-related small program, users can understand the condition of the court, can improve basketball technology.
 - **Technologies:** JavaScript, photoshop
 - **Role:** Team Leader
