@@ -35,7 +35,7 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 ### **Basketball applet** _(2021)_
 - **Description:** First project in college. Basketball-related small program, users can understand the condition of the court, can improve basketball technology.
 - **Technologies:** JavaScript, photoshop
-- **[Demo video](【北邮导论——关于篮球】 https://www.bilibili.com/video/BV1jB4y1q7ZN/?share_source=copy_web&vd_source=1b682457b0b8f5b8f63407a83c94ef72)** 
+- **[Demo video](【北邮导论——关于篮球】 https://www.bilibili.com/video/BV1jB4y1q7ZN/?share_source=copy_web&vd_source=1b682457b0b8f5b8f63407a83c94ef72)**
 
 <!--
 **JungHoRan/JungHoRan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
