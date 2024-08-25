@@ -24,12 +24,12 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 ### **Parking-lot management system** _(2024)_
 - **Description:** Curriculum synthesis experiment.
 - **Technologies:** python, yolov5, crnn
-- **[Address](https://github.com/JungHoRan/Parking-lot)**
+- **[Code Address](https://github.com/JungHoRan/Parking-lot)**
 - **[Demo video](【北邮综合实验——智能停车场管理系统】 https://www.bilibili.com/video/BV1AHWzevETN/?share_source=copy_web&vd_source=1b682457b0b8f5b8f63407a83c94ef72)**
 ### **UAV Edge Computing Methods and Systems for Video Object Detection** _(2023-2024)_
 - **Description:** 2023 college students innovation and entrepreneurship training plan.
 - **Technologies:** python, yolov5, websocket
-- **[Address](https://github.com/JungHoRan/Video-object-detection)**
+- **[Code Address](https://github.com/JungHoRan/Video-object-detection)**
 ### **Mathematical Contest in Modeling (MCM)** _(2023)_
 - **Description:** Participated in the MCM, focusing on optimizing multi-beam survey line problems using Matlab.
 - **Technologies:** Matlab, Mathematical Modeling, Traversal algorithm, Iterative algorithm
@@ -38,7 +38,7 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 ### **Moviematch —— Movie recommendation system** _(2023)_
 - **Description:** Created a smart home automation system using IoT devices and machine learning to optimize energy consumption.
 - **Technologies:** python, Machine Learning
-- **[Address](https://github.com/JungHoRan/Moviematch)**
+- **[Code Address](https://github.com/JungHoRan/Moviematch)**
 ### **Basketball miniprogram** _(2021-2022)_
 - **Description:** First project in college. Basketball-related small program, users can understand the condition of the court, can improve basketball technology.
 - **Technologies:** JavaScript, photoshop
