@@ -25,6 +25,7 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 - **Description:** Curriculum synthesis experiment.
 - **Technologies:** python, yolov5, crnn
 - **[Address](https://github.com/JungHoRan/Parking-lot)**
+- **[Demo video](【北邮综合实验——智能停车场管理系统】 https://www.bilibili.com/video/BV1AHWzevETN/?share_source=copy_web&vd_source=1b682457b0b8f5b8f63407a83c94ef72)**
 ### **UAV Edge Computing Methods and Systems for Video Object Detection** _(2023-2024)_
 - **Description:** 2023 college students innovation and entrepreneurship training plan.
 - **Technologies:** python, yolov5, websocket
