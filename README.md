@@ -17,24 +17,26 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 
 ## 🛠️ Projects
 
-### **[Early Detection of Alzheimer's Disease Based on Multimodal Large Models** _(2024 - Present)]()_
-- **Description:** Developing a method for the early detection of Alzheimer's using multimodal large models.
-- **Technologies:** Python, Deep Learning, Data Analysis
-- **Role:** Researcher
-
-### **Smart Home Automation System** _(2023)_
-- **Description:** Created a smart home automation system using IoT devices and machine learning to optimize energy consumption.
-- **Technologies:** C++, IoT, Machine Learning
-- **Role:** Developer
+### **Cross-Lingual Alzheimer’s Disease Detection Based on Scale Criteria** _(2024)_
+- **Description:** Developing a method for the early detection of Alzheimer's using the Z-score standard.
+- **Technologies:** Python, Deep Learning, Data Analysis, Machine Learning
+- **result:** Accepted by iscslp2024
 
 ### **Mathematical Contest in Modeling (MCM) - Multi-Beam Survey Line Problem** _(2023)_
 - **Description:** Participated in the MCM, focusing on optimizing multi-beam survey line problems using Matlab.
-- **Technologies:** Matlab, Mathematical Modeling
-- **Role:** Team Member
+- **Technologies:** Matlab, Mathematical Modeling, Traversal algorithm, Iterative algorithm
+- **[Experience]:(https://zhuanlan.zhihu.com/p/716390753)**
+- **Role:** Team Leader
 
-### **Basketball applet** _(2021)_
+### **moviematch —— Movie recommendation system** _(2023)_
+- **Description:** Created a smart home automation system using IoT devices and machine learning to optimize energy consumption.
+- **Technologies:** python, Machine Learning
+- **Role:** Developer
+- 
+### **Basketball miniprogram** _(2021)_
 - **Description:** First project in college. Basketball-related small program, users can understand the condition of the court, can improve basketball technology.
 - **Technologies:** JavaScript, photoshop
+- **Role:** Team Leader
 - **[Demo video](【北邮导论——关于篮球】 https://www.bilibili.com/video/BV1jB4y1q7ZN/?share_source=copy_web&vd_source=1b682457b0b8f5b8f63407a83c94ef72)**
 
 <!--
