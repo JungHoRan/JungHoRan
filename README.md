@@ -34,7 +34,7 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 - **Technologies:** Matlab, Mathematical Modeling, Traversal algorithm, Iterative algorithm
 - **[Experience]:(https://zhuanlan.zhihu.com/p/716390753)**
 - **Role:** Team Leader
-### **moviematch —— Movie recommendation system** _(2023)_
+### **Moviematch —— Movie recommendation system** _(2023)_
 - **Description:** Created a smart home automation system using IoT devices and machine learning to optimize energy consumption.
 - **Technologies:** python, Machine Learning
 - **[Address:]()**
