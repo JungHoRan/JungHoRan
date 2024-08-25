@@ -13,6 +13,7 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 - [An interesting question about information theory](https://blog.csdn.net/m0_62869973/article/details/136920415?spm=1001.2014.3001.5501)
 - [Computer principles study notes](https://blog.csdn.net/m0_62869973/article/details/135694039?spm=1001.2014.3001.5501)
 - [Graph theory study notes](https://blog.csdn.net/m0_62869973/article/details/135686812?spm=1001.2014.3001.5501)
+- [Review of mathematical Contest in Modeling](https://zhuanlan.zhihu.com/p/716390753)
 
 
 <!--
