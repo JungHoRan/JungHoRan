@@ -28,7 +28,7 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 ### **UAV Edge Computing Methods and Systems for Video Object Detection** _(2023-2024)_
 - **Description:** 2023 college students innovation and entrepreneurship training plan.
 - **Technologies:** python, yolov5, websocket
-- **[Address]()**
+- **[Address](https://github.com/JungHoRan/Video-object-detection)**
 ### **Mathematical Contest in Modeling (MCM)** _(2023)_
 - **Description:** Participated in the MCM, focusing on optimizing multi-beam survey line problems using Matlab.
 - **Technologies:** Matlab, Mathematical Modeling, Traversal algorithm, Iterative algorithm
