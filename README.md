@@ -18,7 +18,7 @@ My name is Zheng Haoran. I am an undergraduate student at Beijing University of 
 
 I am particularly interested in:
 - **Speech Recognition and Analysis**: Including speech recognition and sentiment analysis.
-- **audio Recognition and Analysis**: Disease detection in medicine or abnormality detection of equipment in industry
+- **audio Recognition and Analysis**: Disease detection in medicine or abnormality detection of equipment in industry.
 - **Acoustic Signal Processing**: Enhancing audio experiences through innovative signal processing techniques.
 - **Semantic Communication**: Investigating ways to improve communication by focusing on the meaning conveyed.
 
